@@ -54,3 +54,19 @@ function populate() {
         showProgress();
     }
 }
+
+function guess(id, guess) {
+    var button = document.getElementById(id);
+    button.onclick = function () {
+        quiz.guess(guess);
+        populate();
+    }
+}
+
+//Question counter
+function showProgress() {
+    var currentQuestionNumber = quiz.questionIndex + 1;
+    var element = document.getElementById("progress");
+    element.innerHTML = "Question " + currentQuestionNumber + " of " + quiz.questions.length;
+
+}
