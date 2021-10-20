@@ -75,3 +75,9 @@ body {
 	color: #080505;
 	font-size: 30px;
 }
+
+@media only screen and (max-width: 768px) {
+    .grid 
+    {width: 200px;
+    height: 800px;}
+}
