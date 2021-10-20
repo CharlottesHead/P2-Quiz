@@ -62,3 +62,16 @@ body {
     font-size: 18px;
 }
 
+#score {
+	margin-top: 10px;
+	text-align: center;
+	color: #2b2b2b;
+	font-size: 30px;
+}
+
+#replay {
+    margin-top: 10px;
+	text-align: center;
+	color: #080505;
+	font-size: 30px;
+}
