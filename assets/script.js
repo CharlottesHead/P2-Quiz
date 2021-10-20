@@ -70,3 +70,14 @@ function showProgress() {
     element.innerHTML = "Question " + currentQuestionNumber + " of " + quiz.questions.length;
 
 }
+
+//function to display final score and restart
+function showScores() {
+    var gameOverHtml = "<h1>Result</h1>";
+    gameOverHtml += "<h2 id='score'>Score: " + quiz.score + "</h2>" + `<div id="replay">
+    <a href="index.html">Take Quiz Again</a>
+    </div>`;
+    var element = document.getElementById("quiz");
+    element.innerHTML = gameOverHtml;
+
+}
