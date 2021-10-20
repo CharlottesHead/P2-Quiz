@@ -32,7 +32,7 @@ List the ready features here:
 
 
 ## Screenshots
-(assets/images/Screenshot-1.png?raw=true "Quiz start") (assets/images/Screenshot-2.png?raw=true "Results") (assets/images/Screenshot-3.png?raw=true "Small screen ready")
+![Screenshot](assets/images/Screenshot-1.png) ![Screenshot](assets/images/Screenshot-2.png) ![Screenshot](assets/images/Screenshot-3.png)
 
 
 
