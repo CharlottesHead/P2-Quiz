@@ -81,3 +81,15 @@ function showScores() {
     element.innerHTML = gameOverHtml;
 
 }
+
+var questions = [
+    new Question("How many time zones are there in Russia?", ["2", "4", "5", "11"], "11"),
+    new Question("What’s the national animal of Australia?", ["Red Kangaroo", "Patypus", "Koala", "Dingo"], "Red Kangaroo"),
+    new Question("Which language has the most words?", ["Spanish", "English", "Mandarin", "Greek"], "English"),
+    new Question("Which artist painted the ceiling of the Sistine Chapel in Rome?", ["da Vinci", "Van Eyck", "Michelangelo", "Banksy"], "Michelangelo"),
+    new Question("How many keys does a classic piano have?", ["66", "88", "102", "112"], "88")
+];
+
+var quiz = new Quiz(questions);
+
+populate();
