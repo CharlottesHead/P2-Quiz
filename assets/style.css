@@ -34,3 +34,16 @@ body {
     font-size: 30px;
     color: rgb(8, 15, 8);  
 }
+
+#btn0, #btn1, #btn2, #btn3{
+    text-align: left;
+    background-color: #ddd;
+    width: 100%;
+    font-size: 1.8rem;
+    color: var(--black);
+    border: 1px solid var(--color-primary);
+    border-radius: 5px;
+    margin: 7px 0;
+    padding: 1rem;
+    outline: none;
+}
