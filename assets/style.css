@@ -2,3 +2,13 @@ body {
     background-image: radial-gradient(circle, #5d00677a 0%, #00d5ff80 100%);
 }
 
+.grid {
+    width: 600px;
+	height: 500px;
+	margin: 0 auto;
+	background-color: #fff;
+	padding: 10px 50px 50px 50px;
+	border-radius: 50px;
+	border: 2px solid #cbcbcb;
+	box-shadow: 10px 15px 5px #cbcbcb;
+}
