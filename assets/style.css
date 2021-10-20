@@ -12,3 +12,13 @@ body {
 	border: 2px solid #cbcbcb;
 	box-shadow: 10px 15px 5px #cbcbcb;
 }
+
+.grid h1 {
+    font-family: 'Franklin Gothic Medium';
+    background-image: radial-gradient(circle, #5d00677a 0%, #00d5ff80 100%);
+    font-size: 60px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding: 2px 0px;
+    border-radius: 50px;
+}
