@@ -57,3 +57,8 @@ body {
     outline: 0;
 }           
 
+#progress {
+    color: rgb(49, 6, 241);
+    font-size: 18px;
+}
+
