@@ -11,6 +11,7 @@
 - [Testing](#testing)
 - [Deployment](#deployment)
 - [Project Status](#project-status)
+- [Responsiveness](#project-status)
 - [Room for Improvement](#room-for-improvement)
 - [Acknowledgements](#acknowledgements)
 
@@ -101,6 +102,10 @@ repository by using the following steps...
 
 ## Project Status
 Complete but will update with improvements listed below.
+
+### Responsiveness
+
+The site is fully responsive and the game panel scales down smoothingly by device.
 
 
 ## Room for Improvement
