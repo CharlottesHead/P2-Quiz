@@ -48,15 +48,15 @@ It has also been tested on Android and iPhone devices, also clear of issues.
 
 ### Development Testing
 
-During the development process, I was manually testing in the following ways:-
+During the development process, It was tested in the following ways:-
 
  - Manually testing each element for appearance and responsiveness via a simulated live server using an extension in VSCode.
  
- - Pass through Jshint without any issues
+ - Passing it through Jshint without any issues
  
- - Pass through W3C validator without any issues.
+ - Passing it through W3C validator without any issues.
  
- - Pass through Jigsaw validator without any issues.   
+ - Passing it through Jigsaw validator without any issues.   
 
  - Published the page via GitHub pages and shared with friends to test and provide feedback.
 
